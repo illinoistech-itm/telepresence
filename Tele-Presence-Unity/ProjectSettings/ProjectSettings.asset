@@ -11,7 +11,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: IIT
-  productName: CoupDOeil
+  productName: Tele-Presence
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -513,13 +513,13 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: Test3
+  metroPackageName: com.iit.telepresence
   metroPackageVersion: 1.0.0.0
-  metroCertificatePath: Assets\WSATestCertificate.pfx
-  metroCertificatePassword: 
-  metroCertificateSubject: DefaultCompany
-  metroCertificateIssuer: DefaultCompany
-  metroCertificateNotAfter: 807a2ee65bf1d301
+  metroCertificatePath: Assets/WSATestCertificate.pfx
+  metroCertificatePassword: xi`i|~iboi
+  metroCertificateSubject: IIT
+  metroCertificateIssuer: IIT
+  metroCertificateNotAfter: 801269e2ec4fd401
   metroApplicationDescription: Test3
   wsaImages: {}
   metroTileShortName: 
