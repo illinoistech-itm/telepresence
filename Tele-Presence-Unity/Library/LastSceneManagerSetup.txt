@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/CoupDOeil/Scenes/IITDemo.unity
+- path: Assets/Tele-Presence/Scenes/StartScene.unity
   isLoaded: 1
   isActive: 1
