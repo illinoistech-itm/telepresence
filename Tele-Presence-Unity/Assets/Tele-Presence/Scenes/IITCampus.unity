@@ -14812,8 +14812,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3ed9b4e21cf975e4ba7208095a304823, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moving: 0
-  spatialMappingManager: {fileID: 0}
 --- !u!1001 &1065677760
 Prefab:
   m_ObjectHideFlags: 0
@@ -19146,7 +19144,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1383169802}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 5.7, z: 1.53}
+  m_LocalPosition: {x: 0, y: 5, z: 1.53}
   m_LocalScale: {x: 2, y: 3, z: 2}
   m_Children:
   - {fileID: 1065008614}

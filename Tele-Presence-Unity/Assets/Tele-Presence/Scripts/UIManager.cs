@@ -19,4 +19,10 @@ public class UIManager : MonoBehaviour {
         UnityEngine.SceneManagement.SceneManager.LoadScene("IITDemoBig");
 
     }
+
+
+	public void EnterTophoto(){
+		UnityEngine.SceneManagement.SceneManager.LoadScene("demo");
+
+	}
 }
