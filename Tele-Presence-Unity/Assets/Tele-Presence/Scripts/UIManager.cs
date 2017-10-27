@@ -16,13 +16,13 @@ public class UIManager : MonoBehaviour {
 
     public void EnterToMap() {
 
-        UnityEngine.SceneManagement.SceneManager.LoadScene("IITDemoBig");
+        UnityEngine.SceneManagement.SceneManager.LoadScene("IITCampus");
 
     }
 
 
 	public void EnterTophoto(){
-		UnityEngine.SceneManagement.SceneManager.LoadScene("demo");
+		UnityEngine.SceneManagement.SceneManager.LoadScene("Demo");
 
 	}
 }
