@@ -6,11 +6,17 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Tele-Presence/Scenes/IITCampus.unity
-    guid: a5f1f09a4ba89a148a07bb1c5160b617
-  - enabled: 1
     path: Assets/Tele-Presence/Scenes/StartScene.unity
     guid: f4312270fb9594e4a88d179c87126a2d
   - enabled: 1
+    path: Assets/Tele-Presence/Scenes/IITCampus.unity
+    guid: a5f1f09a4ba89a148a07bb1c5160b617
+  - enabled: 1
     path: Assets/Urban City/Scenes/Demo.unity
     guid: 2905807ca2d1ccb49b80ae9ed9433153
+  - enabled: 1
+    path: Assets/Tele-Presence/Scenes/Interior.unity
+    guid: 6eba2b94510dfa64ab848b987d0f5957
+  - enabled: 1
+    path: Assets/Tele-Presence/Scenes/chair.unity
+    guid: 8949edb858b88a241a8252f3ee8405f1

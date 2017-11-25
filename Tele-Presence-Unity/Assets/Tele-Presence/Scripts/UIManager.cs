@@ -19,9 +19,13 @@ public class UIManager : MonoBehaviour {
         UnityEngine.SceneManagement.SceneManager.LoadScene("IITCampus");
 
     }
+    public void EnterToInterior()
+    {
+        UnityEngine.SceneManagement.SceneManager.LoadScene("chair");
 
+    }
 
-	public void EnterTophoto(){
+    public void EnterTophoto(){
 		UnityEngine.SceneManagement.SceneManager.LoadScene("Demo");
 
 	}
