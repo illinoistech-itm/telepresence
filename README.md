@@ -5,10 +5,15 @@ Mixed Reality Application For Real Time Human Interactions.
 
 ### Tools Requirements :
 
-Unity 2017.1.1 
-+ [https://beta.unity3d.com/download/b8e3f2d6c409/UnityDownloadAssistant-2017.1.1p2.exe?_ga=2.47309295.978876865.1505772435-984115017.1504731118]
+Unity 2017.1.1f1
 
-Visual Studio 2017 : Select visual studio package download when you download unity.
+ HoloToolkit-Unity-v1.2017.1.1
+download this from microsoft git repo
+
+
+Visual Studio 2017 community 2017 version 15.3.3
+
+Also Select visual studio package download when you download unity.
 
 ### Unity project
 - Download or clone the repository.
